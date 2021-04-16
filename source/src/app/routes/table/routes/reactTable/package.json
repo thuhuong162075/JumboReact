@@ -1,0 +1,6 @@
+{
+  "name": "ReactTable",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Components/DataTable.js"
+}

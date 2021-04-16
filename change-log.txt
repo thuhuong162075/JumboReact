@@ -1,0 +1,187 @@
+Change Log V 4.2.1 (current)
+--------------------------
+FIXED - Fixed reload issue on toggle nav drawer
+
+Change Log V 4.2.0 
+--------------------------
+FIXED - Fixed some CSS issues.
+UPDATED - Updated most of package's version.
+UPDATED - Updated component functionality to hook based functionality.
+
+Change Log V 4.1.1
+--------------------------
+FIXED - Fixed starter-template-without-auth issue
+
+Change Log V 4.1.0
+--------------------------
+ADDED - Added NextJS version with React Hooks.
+FIXED - Fixed minor issues.
+FIXED - Fixed minor style(css) issue
+
+Change Log V 4.0.2
+--------------------------
+FIXED - Drawer issue in Horizontal Layout
+FIXED - Search open issue in Horizontal Layout
+
+Change Log V 4.0.1
+--------------------------
+FIXED- Fixed multi levelmenu issue in vertical menus. 
+FIXED - Fixed some minor issues.
+UPDATED - Updated react-scripts to 3.4.0
+
+Change Log V 4.0.0
+--------------------------
+ADDED- Converted all functionality based on React-Hooks.
+
+Change Log V 3.2.0
+--------------------------
+ADDED - Added Next.JS version. 
+FIXED - Fixed some minor issues.
+
+Change Log V 3.1.3
+--------------------------
+FIXED - Fixed issue on signin and signup page in Dark Theme
+
+Change Log V 3.1.2
+--------------------------
+Added - Added JWT auth integration with Laravel
+
+Change Log V 3.1.1
+--------------------------
+REMOVED - remove cross-env NODE_PATH=src dependenc
+FIXED - Fix hover issue in header user profile.
+
+Change Log V 3.1.0
+--------------------------
+ADDED - Added 3 new dashboards psds: Crypto, CRM and Listing
+UPDATED - Updated all libs 
+UPDATED - Updated to CRA 3.x
+FIXED - Fix  multi level menu issue
+
+Change Log V 3.0.1
+--------------------------
+ADDED - Wall App for social networking
+ADDED - Profile App | Full version
+
+Change Log V 3.0.0
+--------------------------
+ADDED - Widgets - Modern styled widgets 20+
+ADDED - Metrices - Modern styled metrics 15+
+ADDED - Crypto Dashboard
+ADDED - Listing App Dashboard
+ADDED - CRM Dashboard
+UPDATED - New Material Design Concept based design updates
+UPDATED - Ported to Create React App 2 (CRA 2)
+
+Change Log V 2.1.1
+--------------------------
+ADDED -  Fixed minor issues.
+UPDATED - Updatd libraries to latest version.
+
+Change Log V 2.1.0
+--------------------------
+ADDED -  Added pure create-react-app based separate app
+UPDATED - Updated libraries firebase, material-ui, reactstrap etc.
+
+Change Log V 2.0.5
+--------------------------
+UPDATED -  Updated ESLint config
+
+Change Log V 2.0.4 
+--------------------------
+Fixed -  Fixed issue in flat version
+
+Change Log V 2.0.3 
+--------------------------
+UPDATED -  Material UI updated to v1.0
+
+Change Log V 2.0.2 
+--------------------------
+UPDATED -  Material UI Next updated to v1.0.0-rc.1
+
+Checkout the breaking changes(https://github.com/mui-org/material-ui/releases/tag/v1.0.0-rc.0)
+
+
+Change Log V 2.0.1 
+--------------------------
+FIXED   -  Side Navigation Multi Level issue
+
+--------------------------
+ADDED   -  DropZone Fileupload (React Versions)
+ADDED   -  Flat Design Version (Pure BootStrap4)
+ADDED   -  6 Different Layouts (React Versions)
+ADDED   -  Horizontal Navigation Style (React Versions)
+FIXED   -  Few CSS Styling
+
+Change Log V 1.9.3 
+--------------------------
+ADDED  - Added RTL support
+UPDATE - Update Material-ui-icon library 
+ADDED  - Added react-custom-scrollbar
+REMOVED - Removed jQuery from app
+
+Change Log V 1.9.2 
+--------------------------
+ADDED - 2 New variations in datatables
+ADDED - Starter Template without auth (One with auth is also there)
+
+Change Log V 1.9.1
+--------------------------
+ADDED  - Added jQuery version 
+
+Change Log V 1.9
+--------------------------
+UPDATE - Design changes applied on app modules
+
+Change Log V 1.8.1 
+--------------------------
+FIXED  - Changed  - Made Some minor design changes.
+
+Change Log V 1.8 
+--------------------------
+ADDED  - Localization in 6 languages (Internationalization )
+ADDED  - Integrated Firebase Authentication with following: Google, Facebook, Twitter, GitHub.
+ADDED  - Integrated Firebase Database and API with  following modules: Mail, Todo, Contact, Chat.
+
+Change Log V 1.7
+--------------------------
+ADDED  - Async Loading 
+ADDED  - Code Spliting 
+
+Change Log V 1.6
+--------------------------
+ADDED  - Added AotoComplete comonents in Components 
+UPDATE - Update hashRouting 
+FIXED  - Fixed some error in source code 
+FIXED  - Fixed issue in starter template 
+
+Change Log V 1.5 
+--------------------------
+FIXED    - Fixed stater template app-main-container structure
+
+Change Log V 1.4
+--------------------------
+ADDED  - Sweet Alerts Added
+ADDED  - React Notifications Added
+ADDED  - Enabled react HMR
+UPDATE - react version updated from 15.6 to 16.2
+UPDATE - material-ui library updated from version 1.0.0-beta.25 to v1.0.0-beta.30
+UPDATE - react-google-map package updated to stable 9.4.5
+UPDATE - bootstrap 4 stable version added
+FIXED  - Resolved iOS 10+ browser issue on mobile devices
+
+Log V 1.3 
+--------------------------
+ADDED - Starter Template to kickstart your project
+ADDED - Dark Theme Version
+
+Change Log V 1.2
+----------------
+ADDED - Mail App with Redux Implementation
+ADDED - To-Do App with Redux Implementation
+ADDED - Contacts App with Redux Implementation
+ADDED - Chat App with Redux Implementation
+
+Change Log V 1.1
+----------------
+ADDED - Animation to the Notification and Message Popovers in header
